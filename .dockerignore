@@ -1,0 +1,8 @@
+__pycache__
+.pytest_cache
+/.venv
+.coverage
+/htmlcov
+error.log
+/data
+trained_bow_model.pth

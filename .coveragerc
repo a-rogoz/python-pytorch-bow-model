@@ -1,0 +1,13 @@
+[run]
+omit =
+    *.venv/*
+    *__init__.py*
+    */tests/*
+    test_*
+
+[report]
+omit =
+    *.venv/*
+    *__init__.py*
+    */tests/*
+    test_*
